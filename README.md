@@ -126,17 +126,44 @@ I eventually realized that the number of words is generally going to be equal to
    
 </details>
 
-
-### XXX
+### Caesar
 <details>
   <summary>Expand</summary>
 
-#### Problem Set page: https://cs50.harvard.edu/x/2022/psets/1/credit/
+#### Problem Set page: [https://cs50.harvard.edu/x/2022/psets/1/credit/](https://cs50.harvard.edu/x/2022/psets/2/caesar/)
 #### Aim:
-XXX
+Implement a program that encrypts messages using Caesar’s cipher.
 #### General comments:<br>
-<p></p>
+<p>As I started this pset by tacking the substitution probleme first, I already had a pretty good idea of how I wanted to write this code, and things were 87% in accordance with my plans. The other 13% made me change my code and implement most of it under main() instead of using multiple helper functions.</p>
 <h4> Main challenges:</h4>
-<p></p>
+<p>As mentioned, I had a good idea of how I wanted to write this, but I did not had much of a clue on how to make the math work. After tinkering with the final aprt of the code for a while I managed to make it run perfectly well for digits from 1-9. Anything higher than that would only compute the first of the digits (eg. 12 would compute only 1 as key, 643 would compute only 6 as key, etc). That was mostly due to an incorrect approach to the validation part of the problem, in which I converted the key to a char and was unable to make it work properly as an int after that point. After I fixed that the code worked as intended.</p>
+   
+</details>
+
+### Substitution
+<details>
+  <summary>Expand</summary>
+
+#### Problem Set page: https://cs50.harvard.edu/x/2022/psets/2/substitution/
+#### Aim:
+Write a program that implements a substitution cipher.
+#### General comments:<br>
+<p>Maybe it's just me, but I found this to be an insanely cool project! It made me look for ways to work with different data types (just as Caesar did, but I started with this one) and made me feel legitmately more competent by the end. It requires a higher level of organization than the one I was used to, so that's another plus. I do wish the problem set page held your hand a little bit more, as it did in Caesar, but it was ultimately a fun challenge.</p>
+<h4> Main challenges:</h4>
+<p>With all that said, in no moment this problem came across as easy, and I struggled to find a way to work with the ASCII values at the very end. I began with a misguided intention of implementing arrays instead of understanding that they were already in use (since a string is an array of characters). All's well that ends well.</p>
+   
+</details>
+
+### TBA
+<details>
+  <summary>Expand</summary>
+
+#### Problem Set page: 
+#### Aim:
+TBA
+#### General comments:<br>
+<p>TBA</p>
+<h4> Main challenges:</h4>
+<p>TBA</p>
    
 </details>
