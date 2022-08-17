@@ -3,18 +3,18 @@
 <details>
   <summary>Expand</summary>
 
-- pset 0:
+- [pset 0](https://github.com/rbbostelmann/CS50x#pset-0):
   - Scratch:
     - The Bare Necessities
-- pset 1:
+- [pset 1](https://github.com/rbbostelmann/CS50x#pset-1):
   - Hello
   - Mario (more)
   - Credit
-- pset 2:
+- [pset 2](https://github.com/rbbostelmann/CS50x#pset-1):
   - Readability
   - Caesar
   - Substitution
-- Lab 2:
+- [Lab 2](https://github.com/rbbostelmann/CS50x#pset-1):
   - Scrabble
 - pset 3: [on going]
 - pset 4: [TBA]
@@ -154,6 +154,8 @@ Write a program that implements a substitution cipher.
    
 </details>
 
+---
+## pset 3:
 ### TBA
 <details>
   <summary>Expand</summary>
