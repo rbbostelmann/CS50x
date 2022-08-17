@@ -1,7 +1,7 @@
 # This is CS50x
 ### Index:
 <details>
-  <summary>Expand</summary>
+  <summary>Click me</summary>
 
 - [pset 0](https://github.com/rbbostelmann/CS50x#pset-0):
   - Scratch:
