@@ -16,7 +16,7 @@
   - Substitution
 - [Lab 2](https://github.com/rbbostelmann/CS50x#lab-2):
   - Scrabble
-- pset 3: [on going]
+- [pset 3](https://github.com/rbbostelmann/CS50x#pset-3): TBA
 - pset 4: [TBA]
 - pset 5: [TBA]
 - pset 6: [TBA]
