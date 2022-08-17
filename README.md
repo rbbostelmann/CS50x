@@ -75,3 +75,68 @@ This was a pretty straightforward problem set, I already had in mind that I'd us
    
 </details>
 
+### Credit
+<details>
+  <summary>Expand</summary>
+
+#### Problem Set page: https://cs50.harvard.edu/x/2022/psets/1/credit/
+#### Aim:
+Check for a CC number validity and, if so, return the CC provider.
+#### General comments: <br>
+<p>For the most part, this was an easy one. I only really needed to spend time trying to figure out how to better implement the function calls and how to write the Luhn's Algorithm correctly.</p>
+<h4> Main challenges:</h4>
+  
+<p>The math, definitely the math. It was a huge problem for me to figure out how to implement Luhn’s Algorithm and organize the math part of the program. Apart from that, there were no other issues, though that really made me practice googling - which is 90% of a programmer's job, I am told.<br></p>
+   
+</details>
+
+---
+
+## Lab 2:
+### Scrabble
+<details>
+  <summary>Expand</summary>
+
+#### Lab page: https://cs50.harvard.edu/x/2022/labs/2/
+#### Aim:
+Determine which of two Scrabble words is worth more.
+#### General comments:<br>
+<p>The hardest part of this problem set was to correlate the characters to the POINTS array. After I watched the walkthrough video and that passage was explained nothing else was particularly difficult.</p>
+<h4> Main challenges:</h4>
+<p>On the other hand, I really wanted to make a function that would transform a string to uppercase and return said string but I was probably going about it the wrong way and couldn't make that work. I just wanted to avoid having the need to compare with both lower and upper case characters.</p>
+   
+</details>
+
+---
+
+## pset 2:
+### Readability
+<details>
+  <summary>Expand</summary>
+
+#### Problem Set page: https://cs50.harvard.edu/x/2022/psets/2/readability/
+#### Aim:
+Implement a program that calculates the approximate grade level needed to comprehend some text, per the below.
+#### General comments:<br>
+<p>This was probably the easiest problem set thus far. I enjoyed the topic, and while some of the things I wanted to implement did not work, I was never frustrated or clueless about what was happening (okay, maybe I was, but not for long!). I believe the main obstacles here might be using the ASCII table to make proper conditional statements, figuring out the best way to count the words, and managing the variable type conversions.</p>
+<h4> Main challenges:</h4>
+<p>As I mentioned above, I was having some trouble with the word count. I tried to check the string chars for '\0' imagining that it meant that it was the end of a word instead of the "extra" character of a string so that obviously did not work. Then I decided to only count for ASCII 32 (space) character, but I faced trouble with empty strings and with multiple space strings.  
+<br><br>
+I eventually realized that the number of words is generally going to be equal to the number of spaces +1, at least for the cases we had to check for, and that helped me to progress. I also spent way too much time trying to implement regex, but to my despair, C is weird even when doing that, and I could not make it work. I simply don't get the &variable or the * (pointer). Alas, it worked and I did it all by myself ᕙ( •̀ ᗜ •́ )ᕗ</p>
+   
+</details>
+
+
+### XXX
+<details>
+  <summary>Expand</summary>
+
+#### Problem Set page: https://cs50.harvard.edu/x/2022/psets/1/credit/
+#### Aim:
+XXX
+#### General comments:<br>
+<p></p>
+<h4> Main challenges:</h4>
+<p></p>
+   
+</details>
