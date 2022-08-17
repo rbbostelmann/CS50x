@@ -10,11 +10,11 @@
   - Hello
   - Mario (more)
   - Credit
-- [pset 2](https://github.com/rbbostelmann/CS50x#pset-1):
+- [pset 2](https://github.com/rbbostelmann/CS50x#pset-2):
   - Readability
   - Caesar
   - Substitution
-- [Lab 2](https://github.com/rbbostelmann/CS50x#pset-1):
+- [Lab 2](https://github.com/rbbostelmann/CS50x#lab-2):
   - Scrabble
 - pset 3: [on going]
 - pset 4: [TBA]
