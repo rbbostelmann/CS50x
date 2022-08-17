@@ -29,6 +29,7 @@
  
 ---
 ## pset 0:
+### [Scratch](https://github.com/rbbostelmann/CS50x/tree/main/pset%200/The%20Bare%20Necessities)
 <details>
   <summary>Expand</summary>
 
@@ -47,7 +48,7 @@ As for the code itself, once I started to build the blocks and see how they inte
  
 ---
 ## pset 1:
-### Hello
+### [Hello](https://github.com/rbbostelmann/CS50x/tree/main/pset%201/hello)
 <details>
   <summary>Expand</summary>
 
@@ -61,7 +62,7 @@ I have never used C, and, in fact, when I first picked up programming it was my 
  
 </details>
 
-### Mario (more)
+### [Mario (more)](https://github.com/rbbostelmann/CS50x/tree/main/pset%201/mario)
 <details>
   <summary>Expand</summary>
 
@@ -75,7 +76,7 @@ This was a pretty straightforward problem set, I already had in mind that I'd us
    
 </details>
 
-### Credit
+### [Credit](https://github.com/rbbostelmann/CS50x/tree/main/pset%201/credit)
 <details>
   <summary>Expand</summary>
 
@@ -93,7 +94,7 @@ Check for a CC number validity and, if so, return the CC provider.
 ---
 
 ## Lab 2:
-### Scrabble
+### [Scrabble](https://github.com/rbbostelmann/CS50x/tree/main/Lab%202/scrabble)
 <details>
   <summary>Expand</summary>
 
@@ -110,7 +111,7 @@ Determine which of two Scrabble words is worth more.
 ---
 
 ## pset 2:
-### Readability
+### [Readability](https://github.com/rbbostelmann/CS50x/tree/main/pset%202/readability)
 <details>
   <summary>Expand</summary>
 
@@ -126,7 +127,7 @@ I eventually realized that the number of words is generally going to be equal to
    
 </details>
 
-### Caesar
+### [Caesar](https://github.com/rbbostelmann/CS50x/tree/main/pset%202/caesar)
 <details>
   <summary>Expand</summary>
 
@@ -140,7 +141,7 @@ Implement a program that encrypts messages using Caesar’s cipher.
    
 </details>
 
-### Substitution
+### [Substitution](https://github.com/rbbostelmann/CS50x/tree/main/pset%202/substitution)
 <details>
   <summary>Expand</summary>
 
