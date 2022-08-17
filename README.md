@@ -121,7 +121,7 @@ Implement a program that calculates the approximate grade level needed to compre
 #### General comments:<br>
 <p>This was probably the easiest problem set thus far. I enjoyed the topic, and while some of the things I wanted to implement did not work, I was never frustrated or clueless about what was happening (okay, maybe I was, but not for long!). I believe the main obstacles here might be using the ASCII table to make proper conditional statements, figuring out the best way to count the words, and managing the variable type conversions.</p>
 <h4> Main challenges:</h4>
-<p>As I mentioned above, I was having some trouble with the word count. I tried to check the string chars for '\0' imagining that it meant that it was the end of a word instead of the "extra" character of a string so that obviously did not work. Then I decided to only count for ASCII 32 (space) character, but I faced trouble with empty strings and with multiple space strings.  
+<p>As I mentioned above, I was having some trouble with the word count. I tried to check the string chars for '\0' imagining that it meant that it was the end of a word instead of the "extra" character of a string so that obviously did not work. Then I decided to only count for ASCII 32 (space) characters, but I faced trouble with empty strings and with multiple space strings.  
 <br><br>
 I eventually realized that the number of words is generally going to be equal to the number of spaces +1, at least for the cases we had to check for, and that helped me to progress. I also spent way too much time trying to implement regex, but to my despair, C is weird even when doing that, and I could not make it work. I simply don't get the &variable or the * (pointer). Alas, it worked and I did it all by myself ᕙ( •̀ ᗜ •́ )ᕗ</p>
    
@@ -135,9 +135,9 @@ I eventually realized that the number of words is generally going to be equal to
 #### Aim:
 Implement a program that encrypts messages using Caesar’s cipher.
 #### General comments:<br>
-<p>As I started this pset by tacking the substitution probleme first, I already had a pretty good idea of how I wanted to write this code, and things were 87% in accordance with my plans. The other 13% made me change my code and implement most of it under main() instead of using multiple helper functions.</p>
+<p>As I started this set by tackling the substitution problem first, I already had a pretty good idea of how I wanted to write this code, and things were 87% in accordance with my plans. The other 13% made me change my code and implement most of it under main() instead of using multiple helper functions.</p>
 <h4> Main challenges:</h4>
-<p>As mentioned, I had a good idea of how I wanted to write this, but I did not had much of a clue on how to make the math work. After tinkering with the final aprt of the code for a while I managed to make it run perfectly well for digits from 1-9. Anything higher than that would only compute the first of the digits (eg. 12 would compute only 1 as key, 643 would compute only 6 as key, etc). That was mostly due to an incorrect approach to the validation part of the problem, in which I converted the key to a char and was unable to make it work properly as an int after that point. After I fixed that the code worked as intended.</p>
+<p>As mentioned, I had a good idea of how I wanted to write this, but I did not have much of a clue on how to make the math work. After tinkering with the final part of the code for a while I managed to make it run perfectly well for digits from 1-9. Anything higher than that would only compute the first of the digits (eg. 12 would compute only 1 as key, 643 would compute only 6 as key, etc). That was mostly due to an incorrect approach to the validation part of the problem, in which I converted the key to a char and was unable to make it work properly as an int after that point. After I fixed that the code worked as intended.</p>
    
 </details>
 
@@ -149,9 +149,9 @@ Implement a program that encrypts messages using Caesar’s cipher.
 #### Aim:
 Write a program that implements a substitution cipher.
 #### General comments:<br>
-<p>Maybe it's just me, but I found this to be an insanely cool project! It made me look for ways to work with different data types (just as Caesar did, but I started with this one) and made me feel legitmately more competent by the end. It requires a higher level of organization than the one I was used to, so that's another plus. I do wish the problem set page held your hand a little bit more, as it did in Caesar, but it was ultimately a fun challenge.</p>
+<p>Maybe it's just me, but I found this to be an insanely cool project! It made me look for ways to work with different data types (just as Caesar did, but I started with this one) and made me feel more competent by the end. It requires a higher level of organization than I was used to, so that's another plus. I wish the problem set page held your hand a little bit more, as it did in Caesar, but it was ultimately a fun challenge.</p>
 <h4> Main challenges:</h4>
-<p>With all that said, in no moment this problem came across as easy, and I struggled to find a way to work with the ASCII values at the very end. I began with a misguided intention of implementing arrays instead of understanding that they were already in use (since a string is an array of characters). All's well that ends well.</p>
+<p>With all that said, at no moment did this problem come across as easy, and I struggled to find a way to work with the ASCII values at the very end. I began with a misguided intention of implementing arrays instead of understanding that they were already in use (since a string is an array of characters). All's well that ends well.</p>
    
 </details>
 
