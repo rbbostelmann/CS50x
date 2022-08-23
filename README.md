@@ -16,7 +16,7 @@
   - Substitution
 - [Lab 2](https://github.com/rbbostelmann/CS50x#lab-2):
   - Scrabble
-- Lab 3
+- [Lab 3](https://github.com/rbbostelmann/CS50x/blob/main/Lab%203/answers.txt)
 - [pset 3](https://github.com/rbbostelmann/CS50x#pset-3): TBA
 - pset 4: [TBA]
 - pset 5: [TBA]
@@ -158,7 +158,7 @@ Write a program that implements a substitution cipher.
 
 ---
 ## Lab 3
-### Sort
+### [Sort](https://github.com/rbbostelmann/CS50x/blob/main/Lab%203/answers.txt)
 <details>
   <summary>Expand</summary>
   
