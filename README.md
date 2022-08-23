@@ -17,6 +17,7 @@
 - [Lab 2](https://github.com/rbbostelmann/CS50x#lab-2):
   - Scrabble
 - [Lab 3](https://github.com/rbbostelmann/CS50x#lab-3):
+  - Sort
 - [pset 3](https://github.com/rbbostelmann/CS50x#pset-3): TBA
 - pset 4: [TBA]
 - pset 5: [TBA]
