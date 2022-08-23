@@ -1,0 +1,37 @@
+sort1 uses: Bubble sort.
+
+How do you know?: It had the best runtime performance on a sorted list (~0.611s).
+
+sort2 uses: Merge sort.
+
+How do you know?: It had the best runtime performance on a random/unsorted list (~0.699s).
+
+sort3 uses: Selection sort.
+
+How do you know?: It consistently performed on random and sorted lists, which matches theta(n^2) (~3.481s).
+
+---
+Take away:
+
+Bubble sort
+
+Compares pairs of adjacent values one at a time and swaps them if they are out of order. This process goes on until the list is sorted.
+
+Order of n^2    (worst case scenario - unsorted array)
+Omega n         (best case scenario - sorted array)
+
+Selection sorted
+
+Iterates through the unsorted portions of a list and select the smallest element each time then moves it to its correct place.
+
+O of n^2        (WCS - unsorted array)
+Omega n^2       (BSC - sorted array)
+.: Theta n^2
+
+Merge sort
+Recursively divides the list into two halves (until it cannot be divided) and then merges the smaller list back into a larger one in the correct order.
+
+O of (n log n)  (WCS - unsorted array)
+Omega (n log n) (BCS - sorted array)
+.:
+Theta (n log n)
