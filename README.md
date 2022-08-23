@@ -16,6 +16,7 @@
   - Substitution
 - [Lab 2](https://github.com/rbbostelmann/CS50x#lab-2):
   - Scrabble
+- Lab 3
 - [pset 3](https://github.com/rbbostelmann/CS50x#pset-3): TBA
 - pset 4: [TBA]
 - pset 5: [TBA]
@@ -153,6 +154,51 @@ Write a program that implements a substitution cipher.
 <h4> Main challenges:</h4>
 <p>With all that said, at no moment did this problem come across as easy, and I struggled to find a way to work with the ASCII values at the very end. I began with a misguided intention of implementing arrays instead of understanding that they were already in use (since a string is an array of characters). All's well that ends well.</p>
    
+</details>
+
+---
+## Lab 3
+### Sort
+<details>
+  <summary>Expand</summary>
+  
+#### Lab page: https://cs50.harvard.edu/x/2022/labs/3/
+#### Aim:
+Analyze three sorting programs to determine which algorithms they use.
+#### General comments:<br>
+<p>It certainly makes for a more interesting activity to have a visible and measurable way to see the difference between the different types of sorting algorythms. I have seen pure mathematical explanations of the runtime notations and couldn't quite understand as well as I did now.</p>
+
+### Conclusion
+
+#### Bubble sort:
+
+Compares pairs of adjacent values one at a time and swaps them if they are out of order. This process goes on until the list is sorted.
+
+&rarr; O of n<sup>2</sup>&nbsp;(WCS - unsorted array)[^1]<br>
+&rarr; Ω n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(BCS - sorted array)[^2]<br>
+
+#### Selection sorted:
+
+Iterates through the unsorted portions of a list and select the smallest element each time then moves it to its correct place.
+
+&rarr; O of n<sup>2</sup>&nbsp;(WCS - unsorted array)<br>
+&rarr; Ω n<sup>2</sup>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(BSC - sorted array)<br>
+&rarr; Θ n<sup>2</sup>
+
+#### Merge sort:
+
+Recursively divides the list into two halves (until it cannot be divided) and then merges the smaller list back into a larger one in the correct order.
+
+&rarr; O of (n log n)&nbsp;(WCS - unsorted array)<br>
+&rarr; Ω (n log n)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(BCS - sorted array)<br>
+&rarr; Θ (n log n)
+</p>
+<h4> Main challenges:</h4>
+<p>Nothing in particular, though special mention to the kind soul that suggested using "time ./..." to measure the real runtime of the programs.</p>
+
+[^1]: WCS = Worst case scenario<br>
+[^2]: BCS = Best case scenario
+
 </details>
 
 ---
