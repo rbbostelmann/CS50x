@@ -1,4 +1,7 @@
 # This is CS50x
+## Disclaimer
+If you have not completed the exercises I suggest you do so before checking the files. Here I discuss some of the problems I had during the completion thereof and share the solutions I found for the labs and psets. If you're taking CS50x right now, <strong> do not copy </strong> the code. Doing so is a violation of the course's policy on academic honesty, and ultimately, if you don't understand what you're writing - you are not learning. In that case, what's even the point of taking any class?
+
 ### Index:
 <details>
   <summary>Click me</summary>
