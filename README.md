@@ -251,7 +251,7 @@ TBA
 </details>
 
 ---
-## TBA:
+## Lab 4:
 ### TBA
 <details>
   <summary>Expand</summary>
