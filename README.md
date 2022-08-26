@@ -204,6 +204,70 @@ Recursively divides the list into two halves (until it cannot be divided) and th
 
 ---
 ## pset 3:
+### [Plurality](https://github.com/rbbostelmann/CS50x/tree/main/pset%203/plurality)
+<details>
+  <summary>Expand</summary>
+
+#### Problem Set page: 
+#### Aim:
+TBA
+#### General comments:<br>
+<p>TBA</p>
+<h4> Main challenges:</h4>
+<p>TBA</p>
+   
+</details>
+
+---
+## pset 3:
+### [Runoff](https://github.com/rbbostelmann/CS50x/tree/main/pset%203/runoff)
+<details>
+  <summary>Expand</summary>
+
+#### Problem Set page: 
+#### Aim:
+TBA
+#### General comments:<br>
+<p>TBA</p>
+<h4> Main challenges:</h4>
+<p>TBA</p>
+   
+</details>
+
+---
+## pset 3:
+### [Tideman](https://github.com/rbbostelmann/CS50x/tree/main/pset%203/tideman)
+<details>
+  <summary>Expand</summary>
+
+#### Problem Set page: 
+#### Aim:
+TBA
+#### General comments:<br>
+<p>TBA</p>
+<h4> Main challenges:</h4>
+<p>TBA</p>
+   
+</details>
+
+---
+## pset 3:
+### TBA
+<details>
+  <summary>Expand</summary>
+
+#### Problem Set page: 
+#### Aim:
+TBA
+#### General comments:<br>
+<p>TBA</p>
+<h4> Main challenges:</h4>
+<p>TBA</p>
+   
+</details>
+
+---
+## pset 3:
 ### TBA
 <details>
   <summary>Expand</summary>
