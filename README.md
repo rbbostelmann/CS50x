@@ -208,9 +208,9 @@ Recursively divides the list into two halves (until it cannot be divided) and th
 <details>
   <summary>Expand</summary>
 
-#### Problem Set page: 
-#### Aim:
-TBA
+#### Problem Set page: https://cs50.harvard.edu/x/2022/psets/3/plurality/
+#### Aim: 
+Implement a program that runs a plurality election.
 #### General comments:<br>
 <p>TBA</p>
 <h4> Main challenges:</h4>
@@ -224,9 +224,9 @@ TBA
 <details>
   <summary>Expand</summary>
 
-#### Problem Set page: 
-#### Aim:
-TBA
+#### Problem Set page: https://cs50.harvard.edu/x/2022/psets/3/runoff/
+#### Aim: 
+Implement a program that runs a runoff election.
 #### General comments:<br>
 <p>TBA</p>
 <h4> Main challenges:</h4>
@@ -240,9 +240,9 @@ TBA
 <details>
   <summary>Expand</summary>
 
-#### Problem Set page: 
-#### Aim:
-TBA
+#### Problem Set page: https://cs50.harvard.edu/x/2022/psets/3/tideman/
+#### Aim: 
+Implement a program that runs a Tideman election.
 #### General comments:<br>
 <p>TBA</p>
 <h4> Main challenges:</h4>
