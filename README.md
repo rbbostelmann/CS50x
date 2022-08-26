@@ -251,7 +251,7 @@ TBA
 </details>
 
 ---
-## pset 3:
+## TBA:
 ### TBA
 <details>
   <summary>Expand</summary>
@@ -267,17 +267,4 @@ TBA
 </details>
 
 ---
-## pset 3:
-### TBA
-<details>
-  <summary>Expand</summary>
 
-#### Problem Set page: 
-#### Aim:
-TBA
-#### General comments:<br>
-<p>TBA</p>
-<h4> Main challenges:</h4>
-<p>TBA</p>
-   
-</details>
