@@ -18,7 +18,10 @@
   - Scrabble
 - [Lab 3](https://github.com/rbbostelmann/CS50x#lab-3):
   - Sort
-- [pset 3](https://github.com/rbbostelmann/CS50x#pset-3): TBA
+- [pset 3](https://github.com/rbbostelmann/CS50x#pset-3):
+  - Plurality
+  - Runoff
+  - Tideman
 - pset 4: [TBA]
 - pset 5: [TBA]
 - pset 6: [TBA]
