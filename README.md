@@ -218,8 +218,6 @@ Implement a program that runs a plurality election.
    
 </details>
 
----
-## pset 3:
 ### [Runoff](https://github.com/rbbostelmann/CS50x/tree/main/pset%203/runoff)
 <details>
   <summary>Expand</summary>
@@ -234,8 +232,6 @@ Implement a program that runs a runoff election.
    
 </details>
 
----
-## pset 3:
 ### [Tideman](https://github.com/rbbostelmann/CS50x/tree/main/pset%203/tideman)
 <details>
   <summary>Expand</summary>
